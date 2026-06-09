@@ -3,3 +3,4 @@
 youtube-downloader/temp/
 youtube-downloader/downloads/
 youtube-downloader/links.txt
+mail-notifier/.env
